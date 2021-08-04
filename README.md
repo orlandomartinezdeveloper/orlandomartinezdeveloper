@@ -2,9 +2,9 @@
 import SoftwareDeveloper from 'orlandomartinezdeveloper';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Orlando Martinez';
-  title    = 'Software Developer';
-  site  = 'http://www.orlandomartineztoday.com';
+  name = 'Orlando Martinez';
+  title = 'Software Developer';
+  site = 'http://www.orlandomartineztoday.com';
   location = 'Rio das Ostras - RJ';
 }
 
